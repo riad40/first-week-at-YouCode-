@@ -4,7 +4,7 @@
 qui ont toutes en commun la volonté de rendre l'étudiant acteur de ses apprentissages. et il y a aussi la méthode Agile est basé sur la capacité de collabration avec les autres collégues au but d'appredre plus que 
 elle est la capacité de prendre en compte les besoins initiaux du client et ceux liés aux évolutions.
 
-** L' apprentissage technique **
+**L' apprentissage technique**
 
 1. Git :  
 
