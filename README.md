@@ -48,6 +48,7 @@ il y a plusieur type :
   **Les conditions :**
 
 - Les conditions sont des instructions permettent de tester des variables, par exemple la condition (" if , else ") :
+ int main(){    
       if (age >= 18) // Si l'âge est supérieur ou égal à 18
       {
         printf ("Vous etes majeur !");
@@ -55,6 +56,8 @@ il y a plusieur type :
       else // Sinon...
       {
         printf ("Ah c'est bete, vous etes mineur !");
+      }
+       return 0;
       }
 
   **Les boucles :**
