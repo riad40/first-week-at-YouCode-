@@ -1,12 +1,10 @@
 # Semaine 1
 
-#### On est commencer notre 1er semaine a YouCode par présenter la métodologie de travail et d'apprendre laquelle basé sur la pédagogie active cette dérnnière est désigné un ensemble de méthodes pédagogiques
-qui ont toutes en commun la volonté de rendre l'étudiant acteur de ses apprentissages. et il y a aussi la méthode Agile est basé sur la capacité de collabration avec les autres collégues au but d'appredre plus que 
-elle est la capacité de prendre en compte les besoins initiaux du client et ceux liés aux évolutions.
+#### On est commencer notre 1er semaine a YouCode par présenter la métodologie de travail et d'apprendre laquelle basé sur la pédagogie active cette dérnnière est désigné un ensemble de méthodes pédagogiques qui ont toutes en commun la volonté de rendre l'étudiant acteur de ses apprentissages. et il y a aussi la méthode Agile est basé sur la capacité de collabration avec les autres collégues au but d'appredre plus que elle est la capacité de prendre en compte les besoins initiaux du client et ceux liés aux évolutions.
 
 **L' apprentissage technique**
 
-1. Git :  
+**1. Git :**  
 
       - Est un version control système open source, il'a développé par Linus Torvalds en 2005. au but de performances, sécurité et flexibilité pour gérer notre projets en les envoyant sur un serveur (GitHub) ce 
       dernier est  connecté à l'ordinateur d'autres développeurs qui envoient leur code et récupèrent le vôtre, Toute personne qui travaille sur un projet est connectée avec les autres, et tout est synchronisé.
@@ -35,7 +33,7 @@ elle est la capacité de prendre en compte les besoins initiaux du client et ceu
       - Tout simplement Git est un système de contrôle de version qui vous permet de gérer et de suivre l'historique de votre code source. GitHub est un service d'hébergement basé sur le cloud qui vous permet 
       de gérer les référentiels Git. en général si vous avez des projets open source qui utilisent Git, alors GitHub est conçu pour vous aider à mieux les gérer.
 
-2. Introduction en C : 
+**2. Introduction en C :** 
 
       - C est un langage de programmation impératif conçu pour la programmation système. Inventé au début des années 1970 avec UNIX, C est devenu un des langages les plus utilisés. De nombreux langages 
       plus modernes comme C++, Java et PHP reprennent des aspects de C.
@@ -80,7 +78,7 @@ elle est la capacité de prendre en compte les besoins initiaux du client et ceu
           return 0;
         }
 
-3. Les travaux pratiques :
+**3. Les travaux pratiques :**
 
   **workshop Git / GitHub :**
 
@@ -95,9 +93,9 @@ elle est la capacité de prendre en compte les besoins initiaux du client et ceu
 
   **workshop C (Les conditions) :**
 
-      - Utilisation des structures conditionnelles : if avec else, if sans else et switch.
+      - le but de tp est d'utiliser des structures conditionnelles : if avec else, if sans else et switch.
 
-4. Les présentations :
+**4. Les présentations :**
 
   **Git / GitHub**
 
@@ -127,7 +125,7 @@ elle est la capacité de prendre en compte les besoins initiaux du client et ceu
         - c vs c++ : C est un langage de programmation procédural de bas niveau. C++ est procédural et prend en charge les principes orientés objet. C++ est un sur-ensemble de C, ce qui signifie qu'il est basé sur C. En ce qui concerne 
         C++ vs C, les deux langages sont largement utilisés aujourd'hui dans la programmation système.
 
-5. Les blockages : 
+**5. Les blockages :** 
 
       - Pour l'instant j'ai les problèmes du langue français et de pour un personne qui jamais fait le code j'ai trouver une difficulté d'apprendre et de compris l'information mais aprés de pratiquée les prochaine jours Ces problèmes ne  resteront pas .
       
