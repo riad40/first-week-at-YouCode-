@@ -129,5 +129,5 @@ elle est la capacité de prendre en compte les besoins initiaux du client et ceu
 
 5. Les blockages : 
 
-      - Pour l'instant j'ai les problèmes du langue français et de pour un personne qui jamais fait le code j'ai trouver une difficulté d'apprendre et de compris l'information mais aprés de pratiquée les prochaine jours Ces problèmes ne 
-      resteront pas .
+      - Pour l'instant j'ai les problèmes du langue français et de pour un personne qui jamais fait le code j'ai trouver une difficulté d'apprendre et de compris l'information mais aprés de pratiquée les prochaine jours Ces problèmes ne  resteront pas .
+      
