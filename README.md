@@ -70,7 +70,7 @@ et un éditeur de texte en termes de ce qu'ils sauvegarder leur archivage. et d'
 
 **4. Les présentations :**
 
-  **Git / GitHub**
+ **Git / GitHub**
 
 - github vs gitlab : GitLab est un outil de gestion d'hébergement de référentiel développé par GitLab Inc et utilisé pour le processus de développement logiciel.
 
@@ -80,10 +80,9 @@ et un éditeur de texte en termes de ce qu'ils sauvegarder leur archivage. et d'
        
 - github vs azure devOps : Azure DevOps inclut la possibilité de faire ce que la plupart des gens utilisent GitHub, mais il est également livré avec d'autres fonctionnalités uniques. Azure DevOps est une suite intégrée de services qui vous donne tous les outils dont vous avez besoin pour créer et maintenir un backlog, héberger vos référentiels de code source, mettre en œuvre l'intégration continue, ainsi que fournir et tester des workflows pour vos produits avant leur déploiement. Que vous soyez ou non développeur, que vous travailliez seul ou en équipe, la formation Azure DevOps peut vous aider à organiser la façon dont vous planifiez, créez et livrez des logiciels.
 
-différence entre github est azure devOps : tout simplement GitHub a la communauté se sent sa veut dire préférer par la communauté et devOps est L'odeur de Serveur de fondation d'équipe persiste encore. c'est le territoire de l'entreprise.
-        
+Différence entre github est azure devOps : tout simplement GitHub a la communauté se sent sa veut dire préférer par la communauté et devOps est L'odeur de Serveur de fondation d'équipe persiste encore. c'est le territoire de l'entreprise.
 
-**Langage C :**
+**Langage C**
 
 - histoire du language c : Le langage C a été inventé au cours de l'année 1972 dans les Laboratoires Bell. Il était développé en même temps qu'Unix par Dennis Ritchie et Kenneth Thompson. Kenneth Thompson avait développé un  prédécesseur de C, le langage B, qui est lui-même inspiré de BCPL
 
@@ -93,7 +92,6 @@ différence entre github est azure devOps : tout simplement GitHub a la communau
 
 - c vs c++ : C est un langage de programmation procédural de bas niveau. C++ est procédural et prend en charge les principes orientés objet. C++ est un sur-ensemble de C, ce qui signifie qu'il est basé sur C. En ce qui concerne C++ vs C, les deux langages sont largement utilisés aujourd'hui dans la programmation système.
      
-
 **5. Les blockages :** 
 
 Pour l'instant j'ai les problèmes du langue français et de pour un personne qui jamais fait le code j'ai trouver une difficulté d'apprendre et de compris l'information mais aprés de pratiquée les prochaine jours Ces problèmes ne  resteront pas .
