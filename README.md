@@ -48,8 +48,7 @@ il y a plusieur type :
   **Les conditions :**
 
 - Les conditions sont des instructions permettent de tester des variables, par exemple la condition (" if , else ") :
-    
-    if (age >= 18) // Si l'âge est supérieur ou égal à 18
+      if (age >= 18) // Si l'âge est supérieur ou égal à 18
       {
         printf ("Vous etes majeur !");
       }
@@ -60,14 +59,9 @@ il y a plusieur type :
 
   **Les boucles :**
 
-- une boucle est une structure qui permet de répéter les mêmes instructions plusieurs fois et  Répète la boucle tant que cette condition est vrai par exemple "while" : 
-     
-     #include <stdio.h>
-        #include <math.h>
-
-        int main(){
+- une boucle est une structure qui permet de répéter les mêmes instructions plusieurs fois et  Répète la boucle tant que cette condition est vrai par exemple "while" :                    int main(){
             
-            int x = 0;
+         int x = 0;
 
         while (x != 47)
         {
@@ -81,7 +75,7 @@ il y a plusieur type :
 
   **workshop Git / GitHub :**
 
--le but de ce tp est d'installer et configurer Git et GitHub et d'expliquer ce que sont Git et GitHub et les différences entre les deux d'écrire les différences entre Git 
+  - le but de ce tp est d'installer et configurer Git et GitHub et d'expliquer ce que sont Git et GitHub et les différences entre les deux d'écrire les différences entre Git 
 et un éditeur de texte en termes de ce qu'ils sauvegarder leur archivage. et d'écrire pourquoi Git est utile pour un développeur individuel et une équipe de développeurs.
 
   **workshop C (les Variables) :** 
