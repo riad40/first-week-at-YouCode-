@@ -80,7 +80,7 @@ et un éditeur de texte en termes de ce qu'ils sauvegarder leur archivage. et d'
        
 - github vs azure devOps : Azure DevOps inclut la possibilité de faire ce que la plupart des gens utilisent GitHub, mais il est également livré avec d'autres fonctionnalités uniques. Azure DevOps est une suite intégrée de services qui vous donne tous les outils dont vous avez besoin pour créer et maintenir un backlog, héberger vos référentiels de code source, mettre en œuvre l'intégration continue, ainsi que fournir et tester des workflows pour vos produits avant leur déploiement. Que vous soyez ou non développeur, que vous travailliez seul ou en équipe, la formation Azure DevOps peut vous aider à organiser la façon dont vous planifiez, créez et livrez des logiciels.
 
-Différence entre github est azure devOps : tout simplement GitHub a la communauté se sent sa veut dire préférer par la communauté et devOps est L'odeur de Serveur de fondation d'équipe persiste encore. c'est le territoire de l'entreprise.
+   Différence entre github est azure devOps : tout simplement GitHub a la communauté se sent sa veut dire préférer par la communauté et devOps est L'odeur de Serveur de          fondation d'équipe persiste encore. c'est le territoire de l'entreprise.
 
 **Langage C**
 
