@@ -90,13 +90,14 @@ elle est la capacité de prendre en compte les besoins initiaux du client et ceu
       - Décrire pourquoi Git est utile pour un développeur individuel et une équipe de développeurs.
 
   **workshop C (les Variables) :** 
-       - Nous allons écrire des programmes C simples en utilisant les connaissances des types de données, des opérateurs, des fonctions printf et scanf.
+        
+      - le but dans ce tp est Nous allons écrire des programmes C simples en utilisant les connaissances des types de données, des opérateurs, des fonctions printf et scanf.
 
   **workshop C (Les conditions) :**
 
       - Utilisation des structures conditionnelles : if avec else, if sans else et switch.
 
-4. Les veilles :
+4. Les présentations :
 
   **Git / GitHub**
 
