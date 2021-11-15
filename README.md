@@ -125,5 +125,5 @@ et un éditeur de texte en termes de ce qu'ils sauvegarder leur archivage. et d'
 
 **5. Les blockages :** 
 
-      - Pour l'instant j'ai les problèmes du langue français et de pour un personne qui jamais fait le code j'ai trouver une difficulté d'apprendre et de compris l'information mais aprés de pratiquée les prochaine jours Ces problèmes ne  resteront pas .
+      Pour l'instant j'ai les problèmes du langue français et de pour un personne qui jamais fait le code j'ai trouver une difficulté d'apprendre et de compris l'information mais aprés de pratiquée les prochaine jours Ces problèmes ne  resteront pas .
       
