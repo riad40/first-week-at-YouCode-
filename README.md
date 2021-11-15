@@ -82,10 +82,8 @@
 
   **workshop Git / GitHub :**
 
-      - Installer et configurer Git et GitHub.
-      - Expliquer ce que sont Git et GitHub et les différences entre les deux.
-      - Décrire les différences entre Git et un éditeur de texte en termes de ce qu'ils sauvegardent et de leur archivage.
-      - Décrire pourquoi Git est utile pour un développeur individuel et une équipe de développeurs.
+      -le but de ce tp est d'installer et configurer Git et GitHub et d'expliquer ce que sont Git et GitHub et les différences entre les deux d'écrire les différences entre Git 
+et un éditeur de texte en termes de ce qu'ils sauvegarder leur archivage. et d'écrire pourquoi Git est utile pour un développeur individuel et une équipe de développeurs.
 
   **workshop C (les Variables) :** 
         
